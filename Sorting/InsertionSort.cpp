@@ -10,7 +10,7 @@ int main(){
     }
     cout<<endl;
 
-
+    
     for(int i=1;i<n;i++){
         int key=arr[i];
         int j=i-1;
@@ -21,7 +21,6 @@ int main(){
         }
         arr[j+1]=key;
     }
-
 
 
     cout<<"After sorting "<<endl;
