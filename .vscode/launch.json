@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ajay3/OneDrive/Desktop/SDE/DSA/Arrays",
-      "program": "c:/Users/ajay3/OneDrive/Desktop/SDE/DSA/Arrays/build/Debug/outDebug",
+      "cwd": "c:/Users/ajay3/OneDrive/Desktop/SDE/DSA/BinarySearch/BinarySearchOnMatrix",
+      "program": "c:/Users/ajay3/OneDrive/Desktop/SDE/DSA/BinarySearch/BinarySearchOnMatrix/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
