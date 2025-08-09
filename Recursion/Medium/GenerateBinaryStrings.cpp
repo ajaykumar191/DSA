@@ -10,7 +10,7 @@ void generateAllBinary(int n ,string str,vector<string>&res){
 }
 int main(){
 
-    int n =3;
+    int n =4;
     vector<string>res;
 
     generateAllBinary(n,"",res);
